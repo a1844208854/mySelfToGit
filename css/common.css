@@ -1,0 +1,13 @@
+body,div,p,ul,li,span{
+    margin: 0;
+    padding: 0;
+    list-style: none
+}
+.contain{
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.textcenter{
+    text-align: center;
+}
